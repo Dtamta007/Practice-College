@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.here{
+    background-color: pink;
+    display:block;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#hello{
+    background-color:green;
+}
+
+button{
+    background-color: pink;
+}
