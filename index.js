@@ -1,12 +1,13 @@
 console.log("hello");
-console.log("hello");
-// function clickMe(){
-//     var btn = document.querySelector('#hello h1');
-//     var val = btn.innerHTML;
-//     console.log("hello");
-//     console.log(btn);
-//     var num = parseInt(val)
-//     num = num+1;
-//     btn.innerHTML = num;
-//     console.log(num);
-// }
+console.log("Deepanshu");
+
+function clickMe(){
+    var btn = document.querySelector('#hello h1');
+    var val = btn.innerHTML;
+    console.log("hello");
+    console.log(btn);
+    var num = parseInt(val)
+    num = num+1;
+    btn.innerHTML = num;
+    console.log(num);
+}
