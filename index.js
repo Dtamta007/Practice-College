@@ -10,3 +10,15 @@ function clickMe(){
     btn.innerHTML = num;
     console.log(num);
 }
+function clickss(){
+    var btn = document.querySelector('#hello h1');
+    var val=btn.innerHTML;
+    val=parseInt(val);
+    val--;
+    console.log(val);
+    console.log("hi");
+    if(val>=0){
+        btn.innerHTML=val;
+    }
+    
+}
